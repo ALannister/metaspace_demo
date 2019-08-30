@@ -1,4 +1,4 @@
-package com.lannister.java.demo.oom;
+package com.lannister.maven.demo.oom;
 
 
 import java.lang.reflect.Method;
